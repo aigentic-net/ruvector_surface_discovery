@@ -1,6 +1,6 @@
 # ruvector surface discovery
 
-![Hero Banner](https://raw.githubusercontent.com/aigentic-net/ruvector_surface_discovery/main/assets/ruvector-surface-discovery-hero.png)
+![Hero Banner](https://github.com/aigentic-net/ruvector_surface_discovery/raw/main/assets/ruvector-surface-discovery-hero.png)
 
 **CLI/MCP alignment and RVF persistence toolkit.**
 
