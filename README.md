@@ -1,4 +1,6 @@
-# ruvector_surface_discovery
+# ruvector surface discovery
+
+![Hero Banner](./assets/ruvector-surface-discovery-hero.png)
 
 **CLI/MCP alignment and RVF persistence toolkit.**
 
@@ -88,7 +90,7 @@ This workspace contains research artifacts, not runnable code. To build and run 
 
 ```bash
 # Clone the monorepo
-git clone https://github.com/ruvio/ruvector
+git clone https://github.com/ruvnet/ruvector
 
 # Install dependencies
 npm install
@@ -126,9 +128,9 @@ See [RVF index](./analysis/rvf/INDEX.md) for the full 10-specification document 
 
 | Repo | Description |
 |------|-------------|
-| `ruv.io/ruvector` | Main monorepo (npm packages + Rust crates) |
-| `ruv.io/rvf` | RVF binary format specification |
-| `ruv.io/rvlite-rust` | Rust rvlite with optional rvf-backend feature |
+| `ruvnet/ruvector` | Main monorepo (npm packages + Rust crates) |
+| `ruvnet/ruvector/crates/rvf` | RVF binary format specification |
+| `ruvnet/ruvector/crates/rvlite` | Rust rvlite with optional rvf-backend feature |
 
 ---
 
